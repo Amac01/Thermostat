@@ -1,3 +1,52 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  height: 500px;
+  width:500px;
+  margin:auto;
+
+}
+.therm_background {
+
+  /* display: flex; */
+  background-color: #e6e6e6;
+
+  justify-content: space-evenly;
+  padding: 40px;
+}
+
+.display {
+  background-color: #c9ced6;
+  border-style: solid;
+  border-color: #606368;
+  padding: 20px;
+}
+
+.buttons_section {
+  background-color: #c9ced6;
+  border-style: solid;
+  border-color: #606368;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+#select-city{
+  /* padding: 20px; */
+  justify-content:
+}
+
+.button {
+  display: block;
+  border-radius: 12px;
+  height: 25px;
+  width: 50px;
+}
+
+.button_psm {
+  border-radius: 12px;
+  height: 25px;
+  width: 90px;
+}
+
 .low-usage {
   color: green;
 }
